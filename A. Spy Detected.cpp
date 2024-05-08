@@ -87,7 +87,7 @@ int main()
 
 
 /*
-    Submited in Kotlin
+    Submitted in Kotlin
 
 
 
